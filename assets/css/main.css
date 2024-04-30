@@ -27,6 +27,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
+.profile-picture {
+    width: 50%;  
+    height: auto; 
+}
+
 body {
   line-height: 1; }
 
